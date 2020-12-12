@@ -61,7 +61,7 @@ sudo apt-get install openjdk-8-jdk
 
 ### Installation
 
-Using [IntelliJ](https://www.jetbrains.com/idea/download/#section=linux) it will make sure all gradle dependencies is fine.
+Using [IntelliJ](https://www.jetbrains.com/idea/download/#section=linux) it will make sure all gradle dependencies are fine.
 
 Then you will need to override the application.properties template.
 
